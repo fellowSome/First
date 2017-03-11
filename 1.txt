@@ -1,4 +1,4 @@
 amidafork
 we are heros
 work at ff
-test 4 "fetch"
+test 4 "fetch"   2
